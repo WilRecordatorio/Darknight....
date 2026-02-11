@@ -1,0 +1,19 @@
+[11Feb2026 00:17:40.939] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3001ms or 60 ticks
+[11Feb2026 00:32:32.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b127cec6-5c5e-3e36-b86f-c434375ac245 timed out
+[11Feb2026 00:32:32.839] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player vitori_pinguino
+[11Feb2026 00:32:32.839] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to vitori_pinguino
+[11Feb2026 00:32:36.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino lost connection: Timed out
+[11Feb2026 00:32:36.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino left the game
+[11Feb2026 00:32:36.884] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vitori_pinguino
+[11Feb2026 00:32:36.931] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Feb2026 00:34:17.166] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vitori_pinguino[/10.253.75.189:63874] logged in with entity id 22202 at (-1322.5, 89.0, -1272.5)
+[11Feb2026 00:34:17.178] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player vitori_pinguino
+[11Feb2026 00:34:17.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino joined the game
+[11Feb2026 00:34:17.196] [Server thread/INFO] [Jade/]: Syncing config to vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245)
+[11Feb2026 00:34:18.717] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of vitori_pinguino (20)
+[11Feb2026 00:34:18.718] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to vitori_pinguino
+[11Feb2026 00:34:27.667] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b127cec6-5c5e-3e36-b86f-c434375ac245
+[11Feb2026 00:34:28.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b127cec6-5c5e-3e36-b86f-c434375ac245
+[11Feb2026 00:34:28.673] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245) successfully connected to voice chat
+[11Feb2026 01:08:37.661] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3008ms or 60 ticks
+[11Feb2026 01:08:55.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17752ms or 355 ticks behind
